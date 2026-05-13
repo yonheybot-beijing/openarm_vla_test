@@ -1,0 +1,35 @@
+# Model weights and archives
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+smolvla_sponge_20k_pretrained_model/
+*/smolvla_sponge_20k_pretrained_model/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ROS2 / colcon build outputs
+build/
+install/
+log/
+
+# Node / frontend outputs
+node_modules/
+.next/
+dist/
+
+# Local editor and runtime files
+.vscode/
+*.log

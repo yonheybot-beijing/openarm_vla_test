@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -o lerobot_openarm-main.zip -d lerobot_openarm-main)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
